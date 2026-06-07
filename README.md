@@ -7,6 +7,7 @@ As a designer at heart, I enjoy combining creativity and technology. I love turn
 
 ## Currently
 Building my portfolio and personal projects.
+[Live Site](https://kaijanna.github.io/portfolio/index.html)
 
 ## Working with:
 - HTML
