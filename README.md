@@ -1,14 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 My name is Anna Kaijankoski, and I recently completed two years of Front-End Development at Noroff.
 
 My journey into web development started during my Graphic Design studies, where I was introduced to HTML and CSS and built my first web page. That experience inspired me to continue learning, and I went on to study Front-End Development.
 
 As a designer at heart, I enjoy combining creativity and technology. I love turning ideas and designs into functional, responsive, and user-friendly websites.
 
-# Currently
+## Currently
 Building my portfolio and personal projects.
 
-# working with:
+## Working with:
 - HTML
 - CSS
 - JavaScript
