@@ -1,11 +1,21 @@
 ## Hi there 👋
-My name is Anna Kaijankoski, and I have 2 years of Graphic design at Noroff. It that cours we were introduced to coding, where I build my first web-page using HTML and CSS.
+My name is Anna Kaijankoski, and I recently completed two years of Front-End Development at Noroff.
 
-This was the starting point for continuing my studies, and now I am almost at the end of the first year with Front-End development.
+My journey into web development started during my Graphic Design studies, where I was introduced to HTML and CSS and built my first web page. That experience inspired me to continue learning, and I went on to study Front-End Development.
 
-Being a graphic designer at heart, I love that we learn how to implement design ide to actual code, and see how a creative design can be made to an actual website in the end
+As a designer at heart, I enjoy combining creativity and technology. I love turning ideas and designs into functional, responsive, and user-friendly websites.
 
-🔭 I’m currently in Front-end develepment at Noroff
+# Currently
+Building my portfolio and personal projects.
+
+# working with:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
 
 📫 How to reach me: 
 
